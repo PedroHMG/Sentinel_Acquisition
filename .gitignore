@@ -1,0 +1,11 @@
+*.jpeg
+
+/img_folder
+/unzip_folder
+/raw_folder
+/auto_labels
+/netcdf_folder
+
+/.ipynb_checkpoints
+
+New_sar_img.csv
