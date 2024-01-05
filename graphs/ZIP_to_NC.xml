@@ -6,7 +6,7 @@
 		<sources></sources>
 		<parameters class="com.bc.ceres.binding.dom.XppDomElement">
 			<useAdvancedOptions>false</useAdvancedOptions>
-			<file>/mnt/camobi_2/PHMG/new_img_acqusition/raw_folder/S1A_IW_SLC__1SDV_20230423T214735_20230423T214802_048229_05CCA2_4DB8.SAFE.zip</file>
+			<file>/mnt/camobi_2/PHMG/Sentinel_Acquisition/raw_folder/S1A_IW_SLC__1SDV_20141004T154823_20141004T154851_002682_002FE4_C094.SAFE.zip</file>
 			<copyMetadata>true</copyMetadata>
 			<bandNames></bandNames>
 			<pixelRegion>0,0,71397,13643</pixelRegion>
@@ -80,7 +80,7 @@
 			<sourceProduct refid="LinearToFromdB"></sourceProduct>
 		</sources>
 		<parameters class="com.bc.ceres.binding.dom.XppDomElement">
-			<file>/mnt/camobi_2/PHMG/new_img_acqusition/netcdf_folder/S1A_IW_SLC__1SDV_20230423T214735_20230423T214802_048229_05CCA2_4DB8.nc</file>
+			<file>/mnt/camobi_2/PHMG/Sentinel_Acquisition/netcdf_folder/S1A_IW_SLC__1SDV_20141004T154823_20141004T154851_002682_002FE4_C094.nc</file>
 			<formatName>NetCDF4-CF</formatName>
 		</parameters>
 	</node>
