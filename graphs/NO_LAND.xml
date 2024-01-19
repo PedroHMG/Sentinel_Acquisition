@@ -5,7 +5,7 @@
 		<operator>Read</operator>
 		<sources></sources>
 		<parameters class="com.bc.ceres.binding.dom.XppDomElement">
-			<file>Netcdfs/S1A_IW_SLC__1SDV_20231225T075355_20231225T075422_051808_064210_DF75.nc</file>
+			<file>/mnt/camobi_3/new_data/images_nc/6CA9.nc</file>
 			<formatName>NetCDF-CF</formatName>
 		</parameters>
 	</node>
@@ -29,7 +29,7 @@
 			<sourceProduct refid="Land-Sea-Mask"></sourceProduct>
 		</sources>
 		<parameters class="com.bc.ceres.binding.dom.XppDomElement">
-			<file>Temporario/mask_sem_solo.nc</file>
+			<file>/mnt/camobi_2/PHMG/Sentinel_Acquisition/no_land/land.nc</file>
 			<formatName>NetCDF4-CF</formatName>
 		</parameters>
 	</node>
